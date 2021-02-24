@@ -1,4 +1,6 @@
-
+/** @author Rob Nebeker 
+ ** W08 Threads
+ */
 package threads;
 
 
